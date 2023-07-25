@@ -30,7 +30,7 @@ To get started with this authentication system, follow the steps below:
 1. Clone the repository:
 
 ```bash
-git cloneh ttps://github.com/sraveshnandan/JWT_based_auth_server.git
+git cloneh https://github.com/sraveshnandan/JWT_based_auth_server.git
 cd jwt-authentication
 ```
 
