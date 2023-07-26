@@ -106,4 +106,4 @@ Remember to keep the application updated, and follow best practices to ensure th
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
 
 ---
-Please customize the information above, such as the repository URL, project description, and acknowledgments, according to your specific project. Additionally, implement the suggested improvements to enhance the security and functionality of the authentication system. If you have any further questions or need more specific details, feel free to ask. Happy coding!
+ Happy coding!
